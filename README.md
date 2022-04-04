@@ -3,5 +3,5 @@
 
 With the mashal method we can write the Java objects into an XML, while with the unmarshal method we can read an XML and convert it into objects.
 
-This is a simple exercise using Maven dependencies in which we can insert some inputs to create Java objects for videogame shop, convert them into XML and read them again by console and showcasing them in a JTable.
+This is a simple exercise using Maven dependencies in which we can insert some inputs to create Java objects for a videogame shop, convert them into XML and read them again by console and showcasing them in a JTable.
 
