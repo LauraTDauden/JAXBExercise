@@ -1,4 +1,4 @@
-# JAXBExercise
+# JAXB Exercise
 **JAXB** (Java Architecture for XML Binding) allows us to generate XML files from Java objects and, inversely, map an XML file into POJOs.
 
 With the mashal method we can write the Java objects into an XML, while with the unmarshal method we can read an XML and convert it into objects.
